@@ -1,3 +1,5 @@
+https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3
+
 # A Dummy's Guide to Redux and Thunk in React
 
 The demo app for my blog post. It is not an example of writing best-practice markup or React JavaScript, it's just the bare minimum to demonstrate how to use Redux and Redux Thunk.
