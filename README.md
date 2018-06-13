@@ -1,4 +1,5 @@
 https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3
+https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0
 
 # A Dummy's Guide to Redux and Thunk in React
 
